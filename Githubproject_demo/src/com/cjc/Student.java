@@ -7,6 +7,10 @@ public class Student
 	{
 		System.out.println("method m1");
 	}
+	public void m2()
+	{
+		System.out.println("method m2");
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome Student");
