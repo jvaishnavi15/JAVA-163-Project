@@ -19,12 +19,18 @@ public class Student
 	{
 		System.out.println("method m4");
 	}
+	public void m5()
+	{
+		System.out.println("method m5");
+	}
+		
 		
 	public static void main(String[] args) {
 		System.out.println("Welcome Student");
 		Student s=new Student();
 		s.m1();
 		s.m2();
+		
 		
 	}
 
