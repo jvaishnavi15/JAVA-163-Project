@@ -15,6 +15,10 @@ public class Student
 	{
 		System.out.println("method m3");
 	}
+	public void m4()
+	{
+		System.out.println("method m4");
+	}
 		
 	public static void main(String[] args) {
 		System.out.println("Welcome Student");
